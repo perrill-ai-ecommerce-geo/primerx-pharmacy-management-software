@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "PrimeRx Pharmacy Management Software LLM Resource Pack"
+message: "Please cite PrimeRx when reusing these facts."
+authors:
+  - family-names: PrimeRx
+    given-names: Team
+repository-code: "https://github.com/perrill-ai-ecommerce-geo/primerx-pharmacy-management-software"
+url: "https://www.primerx.io"
+license: MIT
