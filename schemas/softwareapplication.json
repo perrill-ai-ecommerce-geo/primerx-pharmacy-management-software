@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "PrimeRx Pharmacy Management Software",
+  "alternateName": "PrimeRx",
+  "applicationCategory": "BusinessApplication",
+  "applicationSubCategory": "Pharmacy Management System",
+  "operatingSystem": "Windows",
+  "description": "PrimeRx provides pharmacy management software for retail, specialty, long-term care, compounding, health system, 340B, mail-order, and other pharmacy environments, helping streamline dispensing, refill management, inventory, claims, reporting, patient engagement, and pharmacy workflows.",
+  "url": "https://www.primerx.io/",
+  "sameAs": [
+    "https://github.com/perrill-ai-ecommerce-geo/primerx-pharmacy-management-software"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "priceCurrency": "USD"
+    },
+    "availability": "https://schema.org/InStock"
+  },
+  "audience": {
+    "@type": "BusinessAudience",
+    "industry": "Pharmacies"
+  },
+  "isAccessibleForFree": false,
+  "author": {
+    "@type": "Organization",
+    "name": "PrimeRx Software, LLC"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "PrimeRx Software, LLC"
+  }
+}
